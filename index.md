@@ -1,6 +1,6 @@
 ## Welcome to Chen Nan's blog
 
-You can use the [editor on GitHub](https://github.com/CN-makers/CN-makers.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我是陈南，本科就读于西安交通大学人工智能专业，哈哈哈哈 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
